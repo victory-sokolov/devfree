@@ -1,2 +1,2 @@
-# freelance-platform
+# Freelance Platform
 Freelance platform for developers
