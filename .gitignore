@@ -1,3 +1,6 @@
+#IDE
+.idea/
+
 # Cache and logs (Symfony2)
 /app/cache/*
 /app/logs/*
@@ -46,7 +49,7 @@
 /composer.phar
 
 # Backup entities generated with doctrine:generate:entities command
-**/Entity/*~
+src/Entity/*~
 
 # Embedded web-server pid file
 /.web-server-pid
